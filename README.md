@@ -7,10 +7,11 @@ Any suggestions to the code optimization are welcome!
 
 
 # Personal Coding History
-
-
-
-
+1. 2 introduction class about C++ during Sophomore year
+2. 1 introduction class about Visual Basic during Junior Year
+3. 1 introduction class about SQL during Senior Year
+4. Information Systems & Accounting, BS Degrees of University of Maryland, College Park
+5. Recently, started Java Self-Learning on February, 2016
 
 
 # Problem List
