@@ -6,11 +6,24 @@ I use this as personal checklist and keep track all the problems that I had done
 Any suggestions to the code optimization are welcome!
 
 
+# Personal Coding History
+
+
+
+
+
+
 # Problem List
 
 1. (3)  Longest Substring Without Repeating Characters:  
         https://leetcode.com/problems/longest-substring-without-repeating-characters/
+        Solved on:      03/07/2016
+        Time costed:    about 6 hours 
 2. (36) Valid Sudoku :                                        
         https://leetcode.com/problems/valid-sudoku/
+        Solved on:      03/9/2016
+        Time costed:    about 10 hours 
 3. (43) Trapping Rain Water:                                  
         https://leetcode.com/problems/trapping-rain-water/
+        Solved on:      03/10/2016
+        Time costed:    about 4 hours 
