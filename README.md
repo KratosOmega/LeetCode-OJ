@@ -28,3 +28,13 @@ Any suggestions to the code optimization are welcome!
         https://leetcode.com/problems/trapping-rain-water/
         Solved on:      03/10/2016
         Time costed:    about 4 hours 
+4. (151) Reverse Words in a String:
+        https://leetcode.com/problems/reverse-words-in-a-string/
+        SOlved on:      03/10/2016
+        Time costed:    about 1 hour
+
+
+
+
+
+
